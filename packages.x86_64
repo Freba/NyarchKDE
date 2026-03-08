@@ -159,7 +159,6 @@ gst-plugins-base
 gst-plugins-good
 gst-plugins-bad
 gst-plugins-ugly
-gstreamer-vaapi
 imagemagick
 lame
 libdvdcss
