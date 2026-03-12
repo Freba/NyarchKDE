@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Get color_last property from kde-material-you-colors config
-color_last=$(grep "^color_last=" ~/.config/kde-material-you-colors/config.conf | cut -d'=' -f2)
+# Get color_last from kde-material-you-colors JSON file
+color_last=$(jq -r '.seed.color' /tmp/kde-material-you-colors-"$(whoami)".json)
 
 # Check if color_last was found
 if [ -n "$color_last" ]; then
@@ -29,6 +29,6 @@ if [ -n "$color_last" ]; then
     # Run adwmu with the color and the detected scheme
     adwmu -c "$color_last" "$adwmu_scheme" -a
 else
-    echo "Error: color_last property not found in config file"
+    echo "Error: color_last not found in JSON file"
     exit 1
 fi
