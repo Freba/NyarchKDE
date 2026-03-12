@@ -365,7 +365,7 @@ plasma-pa
 kscreen
 bluedevil
 glib2
-packagekit-qt6
+#packagekit-qt6 - Not stable
 ibus
 # plasma-wayland-session
 discover
@@ -431,6 +431,7 @@ python-pywal16
 kde-material-you-colors
 yay-bin
 
+# Nyarch Apps
 python-edge-tts
 python-gtts
 python-livepng
@@ -439,6 +440,10 @@ python-newspaper4k
 python-pylatexenc
 python-mcp
 nyarchassistant
+nyarchtourqt
+nyarchassistantqt
+catgirldownloaderqt
+
 
 # Display Manager
 sddm
