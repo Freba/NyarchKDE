@@ -436,12 +436,13 @@ python-edge-tts
 python-gtts
 python-livepng
 python-hatch-fancy-pypi-readme
-python-newspaper4k
+python-newspaper
 python-pylatexenc
 python-mcp
+python-pysilero-vad
 nyarchassistant
 nyarchtourqt
-nyarchassistantqt
+nyarchwizardqt
 catgirldownloaderqt
 
 
@@ -450,6 +451,8 @@ sddm
 sddm-kcm
 kpmcore
 qt6-svg
+qt6-virtualkeyboard
+qt6-multimedia-ffmpeg
 qt6-declarative
 polkit-kde-agent
 xcb-util-cursor
