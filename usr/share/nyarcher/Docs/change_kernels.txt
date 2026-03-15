@@ -1,4 +1,4 @@
-NyarchChange the Kernel in Ezarcher Builds --  Example with linux-zen kernel
+Change the Kernel in Nyarch Builds --  Example with linux-zen kernel
 
 1. Change the kernel and headers listed in packages.x86_64
    Defaults are: linux-lts and linux-lts-headers

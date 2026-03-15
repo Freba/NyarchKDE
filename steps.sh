@@ -1,4 +1,4 @@
-Nyarch#!/bin/bash
+#!/bin/bash
 
 # Revision: 25.05.02
 # (GNU/General Public License version 3.0)
@@ -162,7 +162,7 @@ cp -r usr/ ./ezreleng/airootfs/
 mkdir -p ./ezreleng/airootfs/etc/skel
 mkdir -p ./ezreleng/airootfs/var/lib/
 #cp -r /var/lib/flatpak/ ./ezreleng/airootfs/var/lib/flatpak
-ln -sf /usr/share/ezarcher ./ezreleng/airootfs/etc/skel/ezarcher
+ln -sf /usr/share/nyarcher ./ezreleng/airootfs/etc/skel/nyarcher
 cp customize_airootfs.sh ./ezreleng/airootfs/root/customize_airootfs.sh
 }
 

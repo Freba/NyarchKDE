@@ -1,6 +1,6 @@
-NyarchBasic Arch Chroot Instructions
+Basic Arch Chroot Instructions
 
-Step 1: Boot into the live environment from any current Ezarcher ISO.
+Step 1: Boot into the live environment from any current Nyarch ISO.
 
     Boot your computer from an Arch Linux live USB or CD
 
