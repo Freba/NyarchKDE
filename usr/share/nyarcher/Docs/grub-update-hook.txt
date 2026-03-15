@@ -1,4 +1,4 @@
-Automate GRUB install after an update with Pacman hook:
+NyarchAutomate GRUB install after an update with Pacman hook:
 
 Create a file /etc/pacman.d/hooks/grub-update.hook
 

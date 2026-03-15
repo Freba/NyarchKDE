@@ -1,4 +1,4 @@
-Ezarcher Linux - Live Desktop 
+NyarchNyarchEzarcher Linux - Live Desktop 
 
 Welcome to Ezarcher
 

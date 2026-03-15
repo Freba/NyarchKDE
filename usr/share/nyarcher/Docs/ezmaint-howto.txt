@@ -1,4 +1,4 @@
-The ezmaint script attempts to collect various common maintenance tasks that help keep an Arch based system healthy and lean. Below is the menu of the script and the individual functions that perform the actions.
+NyarchThe ezmaint script attempts to collect various common maintenance tasks that help keep an Arch based system healthy and lean. Below is the menu of the script and the individual functions that perform the actions.
 
 -------------------------------------
  Ezarcher Maintenance Script

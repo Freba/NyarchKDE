@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+Nyarch#!/usr/bin/env bash
 # shellcheck disable=SC2034
 
 iso_name="ezarch-kde"

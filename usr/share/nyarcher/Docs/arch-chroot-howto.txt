@@ -1,4 +1,4 @@
-Basic Arch Chroot Instructions
+NyarchBasic Arch Chroot Instructions
 
 Step 1: Boot into the live environment from any current Ezarcher ISO.
 

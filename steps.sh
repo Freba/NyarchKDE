@@ -1,4 +1,4 @@
-#!/bin/bash
+Nyarch#!/bin/bash
 
 # Revision: 25.05.02
 # (GNU/General Public License version 3.0)
