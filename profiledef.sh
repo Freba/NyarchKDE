@@ -31,5 +31,5 @@ file_permissions=(
   ["/usr/local/bin/nyaofetch"]="0:0:755"
   ["/usr/local/bin/nyay"]="0:0:755"
   ["/usr/share/nyarcher/Scripts/autostart.sh"]="0:0:755"
-  ["/usr/share/nyarcher/Scripts/change_wallpaper.sh"]="0:0:755"
+  ["/usr/share/nyarcher/Scripts/cheange_wallpaper.sh"]="0:0:755"
 )
